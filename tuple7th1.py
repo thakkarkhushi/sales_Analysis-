@@ -1,0 +1,6 @@
+t1=(1,'khushi',True,2,3,4)
+print(t1)
+l=list(t1)
+l.remove(2)
+t=tuple(l)
+print(t)

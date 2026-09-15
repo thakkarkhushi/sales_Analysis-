@@ -1,0 +1,6 @@
+x1=int(input("enter value for x1:"))
+x2=int(input("enter value for x2:"))
+y1=int(input("enter value for y1:"))
+y2=int(input("enter value for y2:"))
+slop=(y2-y1)/(x2-x1)
+print("slop of line:",slop)
